@@ -13,7 +13,6 @@
    version="1.1"
    inkscape:export-ydpi="90"
    inkscape:export-xdpi="90"
-   inkscape:export-filename="/home/pinheiro/Documents/pics/estilo/plasma/wether.png"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="button.svg"
    height="220"
@@ -22,7 +21,7 @@
    sodipodi:version="0.32"
    id="svg2">
   <sodipodi:namedview
-     inkscape:window-height="1017"
+     inkscape:window-height="1013"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -33,9 +32,9 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="2.6416933"
-     inkscape:cx="-28.802034"
-     inkscape:cy="108.46065"
+     inkscape:zoom="1.8679592"
+     inkscape:cx="85.576781"
+     inkscape:cy="109.90374"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -50,7 +49,8 @@
      inkscape:snap-nodes="true"
      inkscape:snap-to-guides="true"
      inkscape:snap-grids="true"
-     inkscape:snap-text-baseline="true">
+     inkscape:snap-text-baseline="true"
+     inkscape:lockguides="true">
     <inkscape:grid
        enabled="true"
        visible="true"

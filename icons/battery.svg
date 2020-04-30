@@ -24,12 +24,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1015"
      id="namedview144"
      showgrid="false"
      inkscape:zoom="2.7778298"
-     inkscape:cx="50.26526"
-     inkscape:cy="-63.845548"
+     inkscape:cx="106.66801"
+     inkscape:cy="-35.017932"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,38 +38,7 @@
      id="defs81">
     <style
        id="current-color-scheme"
-       type="text/css">      .ColorScheme-Text {
-        color:#7B7C7E;
-      }
-      .ColorScheme-Background{
-        color:#EFF0F1;
-      }
-      .ColorScheme-Highlight{
-        color:#3DAEE6;
-      }
-      .ColorScheme-ViewText {
-        color:#7B7C7E;
-      }
-      .ColorScheme-ViewBackground{
-        color:#FCFCFC;
-      }
-      .ColorScheme-ViewHover {
-        color:#3DAEE6;
-      }
-      .ColorScheme-ViewFocus{
-        color:#1E92FF;
-      }
-      .ColorScheme-ButtonText {
-        color:#7B7C7E;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#EFF0F1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3DAEE6;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#1E92FF;
+       type="text/css">
       }</style>
   </defs>
   <metadata
@@ -116,7 +85,7 @@
        y="1037.3622" />
     <path
        class="ColorScheme-Text"
-       style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="m 1186.9091,1043.8483 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
        id="path6686-8" />
     <path
@@ -179,7 +148,7 @@
     <path
        id="path3077-2"
        d="m 1186.9091,1043.8484 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
-       style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        class="ColorScheme-Text" />
     <path
        style="fill:#a1b4ba;fill-opacity:1;stroke:none"
@@ -241,7 +210,7 @@
     <path
        id="path3077-5"
        d="m 1186.9091,1043.8484 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
-       style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        class="ColorScheme-Text" />
     <path
        style="fill:#a1b4ba;fill-opacity:1;stroke:none"
@@ -295,7 +264,7 @@
     <path
        id="path3077-7"
        d="m 1186.9091,1043.8483 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
-       style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        class="ColorScheme-Text" />
     <path
        style="fill:#a1b4ba;fill-opacity:1;stroke:none"
@@ -349,7 +318,7 @@
     <path
        id="path3077-21"
        d="m 1186.9091,1043.8483 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
-       style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        class="ColorScheme-Text" />
     <path
        style="fill:#a1b4ba;fill-opacity:1;stroke:none"
@@ -395,7 +364,7 @@
     <path
        id="path3077-9"
        d="m 1186.9091,1043.8483 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
-       style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        class="ColorScheme-Text" />
     <path
        style="fill:#a1b4ba;fill-opacity:1;stroke:none"
@@ -441,7 +410,7 @@
     <path
        id="path3077-4"
        d="m 1186.9091,1043.8483 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
-       style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        class="ColorScheme-Text" />
     <path
        style="fill:#a1b4ba;fill-opacity:1;stroke:none"
@@ -479,7 +448,7 @@
     <path
        id="path3077-50"
        d="m 1186.8241,1043.8483 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
-       style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        class="ColorScheme-Text" />
     <path
        style="fill:#a1b4ba;fill-opacity:1;stroke:none"
@@ -547,7 +516,7 @@
     <path
        id="path3077-99"
        d="m 1186.8241,1043.8483 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
-       style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        class="ColorScheme-Text" />
     <path
        style="fill:#a1b4ba;fill-opacity:1;stroke:none"
@@ -621,7 +590,7 @@
     <path
        id="path3951"
        d="m 1186.9091,1043.8483 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
-       style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        class="ColorScheme-Highlight" />
   </g>
   <g
@@ -669,7 +638,7 @@
     <path
        id="path4539"
        d="m 1188.9716,1043.8483 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
-       style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        class="ColorScheme-Highlight" />
     <path
        style="fill:#a1b4ba;fill-opacity:1;stroke:none"
@@ -690,7 +659,7 @@
        y="1037.3622" />
     <path
        class="ColorScheme-Text"
-       style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="m 1188.9716,1043.8483 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
        id="path3537" />
     <path
@@ -713,7 +682,7 @@
     <path
        id="path3476"
        d="m 1186.9091,1043.8483 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
-       style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        class="ColorScheme-Text" />
     <path
        style="fill:#a1b4ba;fill-opacity:1;stroke:none"
@@ -775,7 +744,7 @@
     <path
        id="path3029"
        d="m 1186.9091,1043.8483 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
-       style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        class="ColorScheme-Text" />
     <path
        style="fill:#a1b4ba;fill-opacity:1;stroke:none"
@@ -817,7 +786,7 @@
        style="opacity:0.01000001;fill:#97a6a7;fill-opacity:1;stroke:none" />
     <path
        class="ColorScheme-Highlight"
-       style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="m 1188.9091,1043.8484 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
        id="path3295" />
     <path
@@ -841,7 +810,7 @@
        id="g952">
       <path
          class="ColorScheme-Text"
-         style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
          d="m 1188.9091,1043.8484 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
          id="path3468" />
     </g>
@@ -904,7 +873,7 @@
        class="ColorScheme-Text" />
     <path
        class="ColorScheme-Text"
-       style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="m 1186.9091,1043.8484 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
        id="path3434" />
     <path
@@ -926,7 +895,7 @@
     <path
        id="path3077"
        d="m 1186.9091,1043.8483 -3.6363,5.4545 1.8181,0 0,4.5455 3.6363,-5.4546 -1.8181,0 z"
-       style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        class="ColorScheme-Text" />
     <path
        style="fill:#a1b4ba;fill-opacity:1;stroke:none"
@@ -960,5 +929,5 @@
      height="8"
      width="8"
      id="hint-dont-superimpose-fill"
-     style="fill:#2e75bc;fill-opacity:1;stroke:none" />
+     style="fill:#0066ff;fill-opacity:1;stroke:none" />
 </svg>

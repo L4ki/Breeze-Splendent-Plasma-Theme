@@ -27,7 +27,7 @@ ForegroundActive=161,180,186
 ForegroundInactive=161,180,186
 ForegroundLink=0,102,255
 ForegroundNegative=170,0,0
-ForegroundNeutral=255,85,0
+ForegroundNeutral=72,61,139
 ForegroundNormal=161,180,186
 ForegroundPositive=161,180,186
 ForegroundVisited=161,180,186
@@ -39,6 +39,7 @@ DecorationFocus=72,61,139
 DecorationHover=0,60,150
 ForegroundInactive=147,165,170
 ForegroundLink=0,102,255
+ForegroundNormal=161,180,186
 ForegroundPositive=161,180,186
 ForegroundVisited=161,180,186
 
@@ -47,14 +48,14 @@ BackgroundAlternate=5,14,21
 BackgroundNormal=72,61,139
 DecorationFocus=72,61,139
 DecorationHover=0,60,150
-ForegroundActive=219,219,255
+ForegroundActive=200,223,230
 ForegroundInactive=146,163,168
 ForegroundLink=0,102,255
 ForegroundNegative=170,0,0
-ForegroundNeutral=255,85,0
-ForegroundNormal=215,241,248
-ForegroundPositive=193,193,193
-ForegroundVisited=219,219,255
+ForegroundNeutral=72,61,139
+ForegroundNormal=161,180,186
+ForegroundPositive=161,180,186
+ForegroundVisited=205,229,236
 
 [Colors:Tooltip]
 BackgroundAlternate=5,14,21
@@ -65,9 +66,9 @@ ForegroundActive=161,180,186
 ForegroundInactive=137,153,158
 ForegroundLink=0,102,255
 ForegroundNegative=170,0,0
-ForegroundNeutral=255,85,0
-ForegroundNormal=215,241,248
-ForegroundPositive=249,249,249
+ForegroundNeutral=72,61,139
+ForegroundNormal=161,180,186
+ForegroundPositive=161,180,186
 ForegroundVisited=161,180,186
 
 [Colors:View]
@@ -79,8 +80,8 @@ ForegroundActive=161,180,186
 ForegroundInactive=161,180,186
 ForegroundLink=0,71,179
 ForegroundNegative=170,0,0
-ForegroundNeutral=255,85,0
-ForegroundNormal=215,241,248
+ForegroundNeutral=72,61,139
+ForegroundNormal=161,180,186
 ForegroundPositive=161,180,186
 ForegroundVisited=161,180,186
 
@@ -93,8 +94,8 @@ ForegroundActive=161,180,186
 ForegroundInactive=161,180,186
 ForegroundLink=0,102,255
 ForegroundNegative=170,0,0
-ForegroundNeutral=255,85,0
-ForegroundNormal=215,241,248
+ForegroundNeutral=72,61,139
+ForegroundNormal=161,180,186
 ForegroundPositive=161,180,186
 ForegroundVisited=161,180,186
 
@@ -109,7 +110,7 @@ contrast=4
 [WM]
 activeBackground=5,14,21
 activeBlend=5,14,21
-activeForeground=215,241,248
+activeForeground=161,180,186
 inactiveBackground=5,14,21
 inactiveBlend=5,14,21
-inactiveForeground=215,241,248
+inactiveForeground=161,180,186
