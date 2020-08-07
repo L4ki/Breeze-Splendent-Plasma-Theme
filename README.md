@@ -26,3 +26,10 @@ Icon correction: window.svg
 Added widget: plasmoidheading.svg
 
 Widget correction: tabbar.svg, vievitem.svg
+
+Changelog: 07.08.2020.
+---------------------
+
+Icon correction: kdeconnect.svg
+
+Widget correction: viewitem.svg
