@@ -40,3 +40,9 @@ Changelog: 04.09.2020.
 Fix widgets: button.svg, vieweitem.svg
 
 Icon correction: window.svg
+
+Changelog: 26.09.2020.
+---------------------
+
+Changed widget: button.svg
+Icon correction: window.svg
