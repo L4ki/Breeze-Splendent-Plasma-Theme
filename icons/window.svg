@@ -12,7 +12,7 @@
    version="1.1"
    id="svg32"
    sodipodi:docname="window.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata38">
     <rdf:RDF>
@@ -37,7 +37,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1014"
      id="namedview34"
      showgrid="false"
      inkscape:zoom="7.0600193"
@@ -58,7 +58,7 @@
        y="44"
        id="rect2" />
     <path
-       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.6875"
+       style="fill:#0066ff;fill-opacity:1;stroke-width:0.6875"
        d="m -41.062534,45.2 c -0.26761,0.267606 -0.322002,0.74549 -0.01066,1.267575 l -1.46094,0.977546 c -0.181635,-0.0733 -0.37661,-0.127939 -0.56933,-0.12891 -0.250513,-0.0014 -0.494142,0.07519 -0.708987,0.290039 l 1.03125,1.03125 -1.375,1.375 L -44.5,50.7 l 0.6875,-0.34375 1.375,-1.375 1.03125,1.03125 c 0.380514,-0.380514 0.331628,-0.862039 0.161129,-1.278322 l 0.977546,-1.460932 c 0.522085,0.311255 0.999969,0.25686 1.267575,-0.0108 z"
        id="path4" />
   </g>
