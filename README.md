@@ -45,4 +45,5 @@ Changelog: 26.09.2020.
 ---------------------
 
 Changed widget: button.svg
+
 Icon correction: window.svg
